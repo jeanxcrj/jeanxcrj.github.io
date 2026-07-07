@@ -1,5 +1,0 @@
-{
-  "redirects": [
-    { "source": "/thoughts", "destination": "/", "permanent": false }
-  ]
-}
