@@ -1,6 +1,5 @@
 {
-  "rewrites": [
-    { "source": "/thoughts", "destination": "https://jeanxcrj.github.io/thoughts/" },
-    { "source": "/thoughts/:path*", "destination": "https://jeanxcrj.github.io/thoughts/:path*" }
+  "redirects": [
+    { "source": "/thoughts", "destination": "/", "permanent": false }
   ]
 }
